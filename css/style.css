@@ -19,12 +19,12 @@ sans-serif;
 
 header {
   position: relative;
-  background-color: #29a6dc;
   height: 100vh;
   overflow: hidden;
   max-width: 1920px;
   margin: 0 auto;
-  background-image: url(/images/photo1.jpg);
+  background-image: url(/images/problem.jpg);
+  background-color: #43762E;
   background-position: center;
   background-repeat: no-repeat;
 }
